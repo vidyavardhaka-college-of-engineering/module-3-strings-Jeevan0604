@@ -13,7 +13,7 @@ int main()
 {
 	char str1[50], str2[50];
 	int i;
-	printf("Enter a string-1: ");
+	printf("Enter a string-1:");
 	scanf("%s",str1);
 	for (i=0;str1[i]!='\0';i++)                  //Complete the code in for-loop & copy logic
   {                          
